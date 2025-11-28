@@ -1,5 +1,6 @@
-胖东来
-于东来
+OpenAI
+ChatGPT
+Sam Altman
 
 DeepSeek
 梁文锋
@@ -23,24 +24,13 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
 影之刃零
 梁其伟
 
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
+蔚来
+NIO
+李斌
+乐道
 
 京东
 刘强东
@@ -51,6 +41,8 @@ bytedance
 
 特斯拉
 马斯克
+SpaceX
+Elon Musk
 
 微软
 Microsoft
@@ -65,10 +57,6 @@ AMD
 google
 gemini
 deepmind
-
-chatgpt
-openai
-sora
 
 claude
 Anthropic
@@ -111,3 +99,23 @@ ai
 宇宙
 飞船
 航空
+
+美股
+
+A股
+
+李飞飞
+feifei-li
+
+Demis Hassabis
+德米斯·哈萨比斯
+
+Andrew Ng
+吴恩达
+
+Ilya Sutskever
+
+Geoffrey Hinton
+杰弗里·辛顿
+
+金价
